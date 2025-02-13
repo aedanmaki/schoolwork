@@ -1,0 +1,271 @@
+a) Square Pyramid
+The lateral area 
+𝐴
+A of a square pyramid can be calculated using the formula:
+
+𝐴
+=
+1
+2
+×
+perimeter of base
+×
+slant height
+A= 
+2
+1
+​
+ ×perimeter of base×slant height
+Given:
+
+Base side length = 6 in
+Slant height = 11 in
+Calculate the perimeter of the base:
+Perimeter
+=
+4
+×
+side length
+=
+4
+×
+6
+=
+24
+ in
+Perimeter=4×side length=4×6=24 in
+Calculate the lateral area:
+𝐴
+=
+1
+2
+×
+24
+×
+11
+=
+132
+ in
+2
+A= 
+2
+1
+​
+ ×24×11=132 in 
+2
+ 
+b) Regular Tetrahedron
+The lateral area 
+𝐴
+A of a regular tetrahedron can be calculated using the formula:
+
+𝐴
+=
+3
+×
+side length
+2
+A= 
+3
+​
+ ×side length 
+2
+ 
+Given:
+
+Side length = 13.0 cm
+Calculate the lateral area:
+𝐴
+=
+3
+×
+(
+13.0
+)
+2
+≈
+1.732
+×
+169
+≈
+292.44
+ cm
+2
+A= 
+3
+​
+ ×(13.0) 
+2
+ ≈1.732×169≈292.44 cm 
+2
+ 
+Summary of Results
+Square Pyramid Lateral Area: 
+132
+ in
+2
+132 in 
+2
+ 
+Regular Tetrahedron Lateral Area: 
+292
+ cm
+2
+292 cm 
+2
+  (rounded to the nearest square unit)
+
+a) Square Pyramid
+The surface area 
+𝑆
+𝐴
+SA of a square pyramid is calculated using the formula:
+
+𝑆
+𝐴
+=
+Base Area
++
+Lateral Area
+SA=Base Area+Lateral Area
+Given:
+
+Base side length = 6 in
+Lateral area (from Question 4) = 132 in²
+Calculate the base area:
+Base Area
+=
+side length
+2
+=
+6
+2
+=
+36
+ in
+2
+Base Area=side length 
+2
+ =6 
+2
+ =36 in 
+2
+ 
+Calculate the total surface area:
+𝑆
+𝐴
+=
+36
++
+132
+=
+168
+ in
+2
+SA=36+132=168 in 
+2
+ 
+b) Regular Tetrahedron
+The surface area 
+𝑆
+𝐴
+SA of a regular tetrahedron can be calculated using the formula:
+
+𝑆
+𝐴
+=
+Base Area
++
+3
+×
+Lateral Area
+SA=Base Area+3×Lateral Area
+Given:
+
+Side length = 13.0 cm
+Lateral area (from Question 4) ≈ 292 cm² (rounded)
+Calculate the base area:
+Base Area
+=
+3
+4
+×
+side length
+2
+=
+3
+4
+×
+(
+13
+)
+2
+≈
+3
+4
+×
+169
+≈
+73.48
+ cm
+2
+Base Area= 
+4
+3
+​
+ 
+​
+ ×side length 
+2
+ = 
+4
+3
+​
+ 
+​
+ ×(13) 
+2
+ ≈ 
+4
+3
+​
+ 
+​
+ ×169≈73.48 cm 
+2
+ 
+Calculate the total surface area:
+𝑆
+𝐴
+=
+73.48
++
+3
+×
+292
+≈
+73.48
++
+876
+≈
+949.48
+ cm
+2
+SA=73.48+3×292≈73.48+876≈949.48 cm 
+2
+ 
+Summary of Results
+Square Pyramid Surface Area: 
+168
+ in
+2
+168 in 
+2
+ 
+Regular Tetrahedron Surface Area: 
+949
+ cm
+2
+949 cm 
+2
+  (rounded to the nearest square unit)
